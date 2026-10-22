@@ -1,10 +1,12 @@
 === A query the data can match ===
-  stopped: The planning loop isn't built yet — see the TODO in agent.py.
-  fit_card is None — it should still be None here
+  found: Y2K Baby Tee — Butterfly Print — $18.0 on depop
+  outfit: **Outfit 1: Y2K Streetwear**
+Pair the butterfly baby tee with your **baggy straight-leg dark wash jeans (w_001)** for that classic contrast of fitted top and loose bottoms. Finish with **chunky white sneakers (w_007)** and the **black crossbody bag (w_010)**. 
+
+**Outfit 2: Edge & Contrast**
+Layer the baby tee under your **black cropped zip hoodie (w_005)** paired with the **wide-leg khaki trousers (w_002)** for an earth-toned, early-2000s look. Ground the outfit with **black combat boots (w_008)**.
+  fit card: Obsessed with this Y2K butterfly baby tee I just scored—it literally screams 2003 in the best way possible. Pair it with baggy dark wash jeans and chunky sneakers for the ultimate fitted-top-loose-bottoms streetwear vibe, or layer it under a cropped zip hoodie with combat boots if you're leaning into that grungy earth-toned look. Grabbed it on Depop for just $18, so act fast before I change my mind and keep it for myself! 🦋✨
 
 === A query it can't ===
-  stopped: The planning loop isn't built yet — see the TODO in agent.py.
+  stopped: No listings matched 'designer ballgown'. Try to drop or change the size (you asked for XXS), or raise your budget above $5, or use fewer or broader keywords, like 'tee' instead of a long phrase.
   fit_card is None — it should still be None here
-
-The second one should stop before the fit card. If both paths look the same,
-the branch isn't doing anything yet.

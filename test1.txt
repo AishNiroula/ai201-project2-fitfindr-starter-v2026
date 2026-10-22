@@ -1,1 +1,1 @@
-0 []
+7 [('Mesh Long-Sleeve Top — Black', 15.0, 'S/M'), ('Y2K Baby Tee — Butterfly Print', 18.0, 'S/M'), ('Vintage Band Tee — Faded Grey', 19.0, 'L'), ('Graphic Tee — 2003 Tour Bootleg Style', 24.0, 'L'), ('Oversized Crewneck Sweatshirt — Vintage Navy', 20.0, 'XL (fits oversized)'), ('Vintage Graphic Hoodie — Faded Black', 26.0, 'L'), ('Low-Rise Cargo Pants — Khaki', 27.0, 'W29')]
