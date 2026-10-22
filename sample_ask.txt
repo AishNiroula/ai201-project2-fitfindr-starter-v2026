@@ -1,0 +1,4 @@
+
+  The planning loop isn't built yet — see the TODO in agent.py.
+
+0 model calls this session

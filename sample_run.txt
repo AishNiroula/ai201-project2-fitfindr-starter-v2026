@@ -1,0 +1,10 @@
+=== A query the data can match ===
+  stopped: The planning loop isn't built yet — see the TODO in agent.py.
+  fit_card is None — it should still be None here
+
+=== A query it can't ===
+  stopped: The planning loop isn't built yet — see the TODO in agent.py.
+  fit_card is None — it should still be None here
+
+The second one should stop before the fit card. If both paths look the same,
+the branch isn't doing anything yet.
